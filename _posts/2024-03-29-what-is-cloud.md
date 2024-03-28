@@ -1,10 +1,9 @@
 ---
 title: 클라우드? 과연 무엇일까?
 author: bluearin
-date: 2024-03-29 00:55:00 +0800
+date: 2024-03-29 00:55:00 +0900
 categories: [Cloud, Basic]
 tags: [cloud,aws]
-pin: true
 ---
 
 ## 클라우드란?
