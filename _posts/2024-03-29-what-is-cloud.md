@@ -12,7 +12,7 @@ tags: [cloud,aws]
  
 그렇습니다, 위 두 경우 모두 맞습니다. 맥주 브랜드에도 클라우드라는 이름이 있고, Google Drive와 같은 서비스는 클라우드 기반에서 운영되기 때문입니다. 하지만 이 글에서는 클라우드 컴퓨팅에 대해 논의하고자 합니다.
 
-![cloud](../assets/images/R1280x0.png)
+![cloud](/assets/images/R1280x0.png)
 
 ## Cloud
 
@@ -24,7 +24,7 @@ tags: [cloud,aws]
  
 퍼블릭 클라우드(Public Cloud) 서비스를 제공하는 회사들로는 Amazon의 AWS(Amazon Web Service), Microsoft의 Azure, Google의 Google Cloud가 대표적이며, 그 외에 Oracle, IBM 등 많은 엔터프라이즈 기업들이 클라우드 서비스를 제공하고 있습니다.
 
-![cloud market](../assets/images/R1280x0-2.png)
+![cloud market](/assets/images/R1280x0-2.png)
 
 전 세계 퍼블릭 클라우드 시장 점유율을 보면, AWS, Azure, Google Cloud가 선두를 지키고 있고, 중국의 알리바바와 텐센트 클라우드, IBM, Salesforce 등이 그 뒤를 따르고 있습니다. 퍼블릭 클라우드 시장은 매년 높은 성장률을 보이고 있으며 앞으로도 계속 성장할 것으로 예상됩니다.
  
