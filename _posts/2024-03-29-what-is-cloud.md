@@ -1,8 +1,8 @@
 ---
 title: 클라우드? 과연 무엇일까?
 author: bluearin
-date: 2024-03-29 00:05:00 +0800
-categories: [Blogging, Tutorial]
+date: 2024-03-29 00:55:00 +0800
+categories: [Cloud, Basic]
 tags: [cloud,aws]
 pin: true
 ---
