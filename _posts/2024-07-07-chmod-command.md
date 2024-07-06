@@ -2,7 +2,7 @@
 title: chmod 명령어 - 리눅스 파일 관리의 핵심
 author: bluearin
 date: 2024-07-07 00:20:00 +0900
-categories: [Linux, Basic]
+categories: [Linux, Command]
 tags: [linux,unix]
 ---
 
